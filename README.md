@@ -1,1 +1,1 @@
-# pytorch-seq2seq
+# pytorch-seq2seq## Todo List- [ ] a fiar method to evaluate the models below- [x] seq2seq with **teacher forcing** and **attention** mechanism - [ ] seq2seq with **teacher forcing**, **attention** and **copy** mechanism 
